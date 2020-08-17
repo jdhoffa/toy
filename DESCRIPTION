@@ -19,3 +19,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1.9000
 Suggests: 
     rmarkdown
+URL: https://github.com/maurolepore/toy
+BugReports: https://github.com/maurolepore/toy/issues
