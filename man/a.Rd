@@ -13,6 +13,5 @@ A
 Title
 }
 \details{
-Aaa aaaaaaaa aaaaaaaaaaaaaaaaaa aaaaaaaaaaaa aaaaaaaaaaaaa aaaaaaaaaa
-aaaaaa aaaaaaaa.
+Aaa aaaaaaaa aaaaaaaaaaaaaaaaaa aaaaaaaaaaaa aaaaaaaaaaaaa aaaaaaaaaa aaaaaa aaaaaaaa.
 }
