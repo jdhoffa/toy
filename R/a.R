@@ -1,10 +1,9 @@
 #' Title
-#' Aaaaaaaaaaaaaaa aaaaaaaaaaaa aaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaa aaaaaaaaaaaaa aaaaaaaa.
 #'
 #' @return A
 #' @export
 #'
-#' @examples
+#' @includeRmd vignettes/a.md
 a <- function() {
   "a"
 }

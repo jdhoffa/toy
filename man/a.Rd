@@ -2,8 +2,7 @@
 % Please edit documentation in R/a.R
 \name{a}
 \alias{a}
-\title{Title
-Aaaaaaaaaaaaaaa aaaaaaaaaaaa aaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaa aaaaaaaaaaaaa aaaaaaaa.}
+\title{Title}
 \usage{
 a()
 }
@@ -12,5 +11,8 @@ A
 }
 \description{
 Title
-Aaaaaaaaaaaaaaa aaaaaaaaaaaa aaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaa aaaaaaaaaaaaa aaaaaaaa.
+}
+\details{
+Aaa aaaaaaaa aaaaaaaaaaaaaaaaaa aaaaaaaaaaaa aaaaaaaaaaaaa aaaaaaaaaa
+aaaaaa aaaaaaaa.
 }
